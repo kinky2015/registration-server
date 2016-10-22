@@ -1,0 +1,2 @@
+# registration-server
+registration-server是microservices工程的注册部分的一个拆分！
